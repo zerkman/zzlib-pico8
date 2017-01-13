@@ -198,6 +198,7 @@ local function inflate_block_static(out,bs)
     local d = stdpt[i]
     for j=1,stcnt[i] do
       depths[k] = d
+      k = k + 1
     end
   end
   local nlit = hufftable_create(littable,depths,288)
