@@ -1,7 +1,7 @@
 
 -- zzlib - zlib decompression in lua - pico-8 edition
 
--- copyright (c) 2016 francois galea <fgalea at free.fr>
+-- copyright (c) 2016-2020 francois galea <fgalea at free.fr>
 -- this program is free software. it comes without any warranty, to
 -- the extent permitted by applicable law. you can redistribute it
 -- and/or modify it under the terms of the do what the fuck you want
